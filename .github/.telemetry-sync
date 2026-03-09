@@ -1,3 +1,3 @@
-rev=4095
-ts=1773068742
-scope=modbus
+rev=4096
+ts=1773068784
+scope=plc-parser
