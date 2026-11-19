@@ -1,4 +1,4 @@
 date=2026-11-19
-seq=1000
-ts=1795056655
-scope=plc-parser
+seq=1001
+ts=1795056658
+scope=tag-inspector
