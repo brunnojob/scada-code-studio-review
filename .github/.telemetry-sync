@@ -1,4 +1,4 @@
 date=2026-11-20
-seq=360
-ts=1795177847
-scope=modbus
+seq=361
+ts=1795177852
+scope=ui-ast
