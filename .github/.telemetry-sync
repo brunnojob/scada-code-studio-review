@@ -1,4 +1,4 @@
 date=2026-11-20
-seq=505
-ts=1795178788
-scope=modbus
+seq=506
+ts=1795178792
+scope=plc-parser
