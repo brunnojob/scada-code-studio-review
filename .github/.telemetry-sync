@@ -1,4 +1,4 @@
 date=2026-11-21
-seq=286
-ts=1795231065
-scope=ui-ast
+seq=287
+ts=1795231066
+scope=plc-parser
