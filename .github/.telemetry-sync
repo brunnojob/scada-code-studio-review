@@ -1,4 +1,4 @@
 date=2026-11-26
-seq=255
-ts=1795713364
-scope=modbus
+seq=256
+ts=1795713366
+scope=tag-inspector
